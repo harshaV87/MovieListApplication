@@ -1,0 +1,2 @@
+# MovieListApplication
+Movie List application showing a list of movies from the API.It is a simple application that shows a list of movies from the API, with now playing and most popular movies. A search bar is included in the application where users can search the movie list and press on the particular item in the list to show the details of the movie. In addition, unit tests are included and a design pattern of MVVM is implemented. Also, The application is written in Swift.
